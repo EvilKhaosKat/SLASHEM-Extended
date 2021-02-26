@@ -1,0 +1,1 @@
+gmake CC="cc -Wno-implicit-function-declaration" -f sys/unix/GNUmakefile
